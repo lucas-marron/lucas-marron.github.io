@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Lucas Marron"
+title                    : "Lucas Marron 2.0"
 title_separator          : " "
 name                     : &name " "
 description              : &description "personal description"
