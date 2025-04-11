@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/marron_profile.jpg"
+  avatar           : "marron_profile.png"
   name             : "Lucas Marron"
   pronouns         : # example: "she/her"  
   bio              : "Joint Ph.D Student in Economics and Business Realty and Urban"
