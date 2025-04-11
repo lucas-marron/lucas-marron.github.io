@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version of CV](https://www.dropbox.com/scl/fi/f6c3ni2ib5mixubf51kpf/marron_cv.pdf?rlkey=it363vlv748cuvybppzt9if1d&dl=0)
+[PDF version](https://www.dropbox.com/scl/fi/v3kcyf2ivbx6h1e9pvv9d/marron_cv-2.pdf?rlkey=rs55550k1aob5csm240lzbjzi&dl=0)
 
 Education
 ======
