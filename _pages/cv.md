@@ -28,7 +28,7 @@ Research experience
 Work Experience
 ======
 * Research Intern - ECONorthwest
- * Worked under Ph.D Economists to conduct survey experiments for local cities on the demand of outdoor tourism. I headed cleaning the data, conducting correlational analysis, and created figures and slides for presentations to stakeholders.
+  * Worked under Ph.D Economists to conduct survey experiments for local cities on the demand of outdoor tourism. I headed cleaning the data, conducting correlational analysis, and created figures and slides for presentations to stakeholders.
 
 Awards, Scholarships, and Affiliations
 ======
@@ -40,8 +40,4 @@ Awards, Scholarships, and Affiliations
   
 Skills
 ======
-* R
-* Stata
-* Julia
-* QGIS
-* Latex
+* R, Stata, Julia, QGIS, Latex
