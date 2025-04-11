@@ -9,56 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF version of CV](assets/cv/marron_cv.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics and Business Realty/Urban Economics, University of Wisconsin, Cohort of 2024
+* Classes: Computational Methods for Economics, Yale University, 2024
+* B.S. in Economics and Mathematics with Honors, University of Oregon, 2022
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Predoctoral Fellow - Yale University
+  * Worked on various projects for professors Joseph Altonji and John Eric Humphries, focusing on higher education and urban economics.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Undergraduate Thesis - University of Oregon
+  * Biases in Qualitative Student Evaluations: Do Open Ended Questions Eliminate Bias in Student Evaluations of Teaching?
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Work Experience
+======
+* Research Intern - ECONorthwest
+ * Worked under Ph.D Economists to conduct survey experiments for local cities on the demand of outdoor tourism. I headed cleaning the data, conducting correlational analysis, and created figures and slides for presentations to stakeholders.
+
+Awards, Scholarships, and Affiliations
+======
+* Omicron Delta Epsilon
+* UO Dean's List - (2019, 2020, 2022)
+* Summit Scholarship - (2018-2022, $20,000)
+* Fulcrum Fellow - (2024, $10,000)
+* SSS with Census Bureau
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* R
+* Stata
+* Julia
+* QGIS
+* Latex
