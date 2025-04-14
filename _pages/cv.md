@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version DB](https://www.dropbox.com/scl/fi/v3kcyf2ivbx6h1e9pvv9d/marron_cv-2.pdf?rlkey=rs55550k1aob5csm240lzbjzi&dl=0)%}
-
 [PDF version](/assets/cv/marron_cv.pdf)
 
 Education
