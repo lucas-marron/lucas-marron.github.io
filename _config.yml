@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Lucas Marron"
 title_separator          : "-"
 name                     : &name "Lucas Marron"
-description              : &description "personal description"
+description              : &description "Lucas Marron - I am an Economics/RE PhD student at the University of Wisconsin, interested in urban economics and education."
 url                      : https://lucas-marron.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : #"/lucas-marron.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,8 +25,8 @@ author:
   avatar           : "marron_profile.png"
   name             : "Lucas Marron"
   pronouns         : # example: "she/her"  
-  bio              : "Joint Ph.D Student in Economics and Business Realty and Urban"
-  location         : #"Earth"
+  bio              : "Joint Ph.D. Student in Economics and Urban/Real Estate"
+  location         : "Madison, WI"
   employer         : "University of Wisconsin"
   uri              : # URL
   email            : "lmarron@wisc.edu" 
@@ -305,6 +305,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-seo-tag
 
 # Mimic GitHub Pages with --safe
 whitelist:
